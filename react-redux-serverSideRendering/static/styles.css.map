@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./homepage.scss"],"names":[],"mappings":"AAAA;EACE,WAAW,EAAE;EACb;IACE,mBAAmB,EAAE","file":"styles.css","sourcesContent":[".component {\n  color: red; }\n  .component h1 {\n    font-style: italic; }\n\n\n\n// WEBPACK FOOTER //\n// ./homepage.scss"],"sourceRoot":""}
